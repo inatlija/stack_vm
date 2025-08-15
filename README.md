@@ -1,6 +1,6 @@
 # VM
 
-A simple stack-based virtual machine (VM) written in Zig that runs bytecode code.
+A simple stack-based virtual machine (VM) written in Zig that runs bytecode.
 
 ## How It Works
 
@@ -162,3 +162,4 @@ To build and run:
 ```bash
 zig run main.zig
 ```
+
